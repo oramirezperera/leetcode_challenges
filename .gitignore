@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore all the bin files
+bin/*
+lib64
+*.cfg
