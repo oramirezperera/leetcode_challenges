@@ -174,4 +174,4 @@ cython_debug/
 bin/
 lib64
 *.cfg
-challenges
+challenges/
